@@ -1,0 +1,2 @@
+28a304da17de8eaebdba83baf4ccf8f37d7f234d84c2d4efe2229dd790a8594c  SPL-Connected-Shop-v3.zip
+9bb5d64dee9db49de5cb2ea5fbdca3c2e9e81deba7087f0651a2829cedf1eca8  SPL-v3-Release-Notes.md
