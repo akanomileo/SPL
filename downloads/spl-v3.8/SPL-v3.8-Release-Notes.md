@@ -1,0 +1,11 @@
+# SPL Connected Shop v3.8
+
+The owner dashboard now includes Accounts and Visitors. Accounts lists customers with searchable names/emails, access status, lifetime order counts/totals and recorded join/sign-in dates. Owner-only suspension revokes sessions and blocks Google sign-in to SPL; restoration keeps the same customer and orders. Orders/receipts and the protected single-owner identity are preserved. Stale account updates are rejected.
+
+Visitors shows daily distinct browsers and shop openings using Myanmar time. Choose 7, 30 or 90 days, view the chart/table, and refresh. Guests and signed-in customers count; owner sessions, recognised bots and Do Not Track requests are excluded. Counts persist in the private database. Tracking starts with this release; earlier dates are marked unavailable and excluded from the average. This is an estimate of browsers, not a count of verified people. No Google Analytics account is needed.
+
+Brand radios/labels are left-aligned. A searchable directory includes 88 current, regional and legacy laptop brands, with actual category listing counts. Owners get suggestions and can enter additional brands. Brand matching ignores case; zero-stock brands remain clear without invented products.
+
+Both customer and owner sites, Google-only checkout, single-owner access, 12-photo laptop galleries, editable payment/QR methods and 20-receipt split-payment review remain included. Follow UPGRADE.md to preserve your complete data folder and private Google settings. Node.js 22.13+ is required; npm.cmd start runs the included build without installing dependencies.
+
+50 automated Node 22.13 tests pass, plus TypeScript, lint and the production build. New tests cover account privacy and authorization, suspension/restoration/session revocation, migration, search/pagination, per-customer orders, Myanmar-day boundaries, visitor deduplication and retry handling, persistence, cookie signatures, bot/owner/DNT exclusions and brand case matching. Browser checks cover the connected gallery/checkout/payment flow, customer controls, visitor chart/table and 320/390/1440 layouts. Google responses and transfer images are mocked in isolated tests; no real credentials or shop data are shipped.
