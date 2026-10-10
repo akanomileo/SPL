@@ -1,0 +1,8 @@
+af9900a1aecd3107058c939785af956c43e93e89a97d2d3ae806d40eeaf20ef3  SPL-Connected-Shop-v3.5.zip
+932eda81c385111f684c26b163fe8e9749a57e8e870c6823c40734b6dfc596cc  SPL-v3.5-Google-Setup.md
+17fce4b65ed36da057b0b99174cc31f7a2c7b3179da3971e808ba91f67a540cf  SPL-v3.5-Payments-Guide.md
+4de9e7c5969b29181d6d440c7ab231f42ba483fbabf008586be3e7ce4302cff5  SPL-v3.5-Release-Notes.md
+e92d1ce1c228c90beabac0e5664bfccb6aad16e6a9c5af248df61068eb0feaaf  SPL-v3.5-Upgrade.md
+d9fc193e853d558d8ce0b38649422d1faaf2fe731e6dc4ade691a2cc81bb83ff  SPL-v3.5-customer-preview.png
+5f2a24f3771da7c0415437a49fe09232ffa544a7a59be7eb9ef5c31f35013d5d  SPL-v3.5-owner-preview.png
+ac7d8e53f86a47d19235def6c0310a7321c825e6b6e7044bde0eaba22cc41e3c  SPL-v3.5-payment-preview.png
