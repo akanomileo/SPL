@@ -1,0 +1,11 @@
+67ca8daa80b9d5166a8817ae00f523afa519f3a3f83e89f9ddade084c758950d  SPL-Connected-Shop-v3.6.zip
+932eda81c385111f684c26b163fe8e9749a57e8e870c6823c40734b6dfc596cc  SPL-v3.6-Google-Setup.md
+17fce4b65ed36da057b0b99174cc31f7a2c7b3179da3971e808ba91f67a540cf  SPL-v3.6-Payments-Guide.md
+c5339954d07afa57f587e01536e2d83ec6f3e2a4b1b9f9aaabd516f685ebd6a3  SPL-v3.6-Photos-Guide.md
+58c43686761929f66f87a256e261601ee1ae18b82d67fa5610061b1909018b5e  SPL-v3.6-Release-Notes.md
+349c04a8115e5d532c631668b23bc71acf313f50e59cc4059e3a76b02bf7ba9f  SPL-v3.6-Upgrade.md
+d9fc193e853d558d8ce0b38649422d1faaf2fe731e6dc4ade691a2cc81bb83ff  SPL-v3.6-customer-preview.png
+a2d3ecb18ce615c8465ee8947f4f25687785061f7e95f0795c64493af4e09ee6  SPL-v3.6-owner-preview.png
+c1c6f91c29900ac9490625fae524df369e6f5eb1ce31829986164b793fb7967a  SPL-v3.6-payment-preview.png
+c2bf130d6ed4d47155d6160f28772815183867abe35acce5f8235972b9f1f6ba  SPL-v3.6-photos-customer-preview.png
+835ca0de890dadb02fd4611bd7c17fb2645792b4037dcda1dc62a2482486bc0a  SPL-v3.6-photos-owner-preview.png
