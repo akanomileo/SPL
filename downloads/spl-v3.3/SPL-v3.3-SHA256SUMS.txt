@@ -1,0 +1,3 @@
+9ea39115cfd27592a6f3b9e349fd2fb4be8ea6d4c7000c3012b67cfd481e97f2  SPL-Connected-Shop-v3.3.zip
+7d65133695a82fdf293fb3ffd12321b8b9c47820fa4e9f9a1e437796bd2a425c  SPL-v3.3-Release-Notes.md
+932eda81c385111f684c26b163fe8e9749a57e8e870c6823c40734b6dfc596cc  SPL-v3.3-Google-Setup.md
