@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "file": "laptop-1.jpg",
+    "bytes": 22225,
+    "source": "https://cdn.sanity.io/images/oinnenf8/production/19ac53dbce49a2d9686aba1727367ebb0ff81304-1333x1000.jpg?w=660"
+  },
+  {
+    "id": 2,
+    "file": "laptop-2.jpg",
+    "bytes": 33184,
+    "source": "https://http2.mlstatic.com/D_932769-MLM93598538723_092025-C.jpg"
+  },
+  {
+    "id": 3,
+    "file": "laptop-3.jpg",
+    "bytes": 52824,
+    "source": "https://refurbishcanada.ca/cdn/shop/files/HPZBook_15Front_AEC_575px_2048x.jpg?v=1761725614"
+  },
+  {
+    "id": 4,
+    "file": "laptop-4.jpg",
+    "bytes": 25917,
+    "source": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Gldn-Surface-Laptop-4-Platinum-BnrCntrl-CP01-1668x940?fit=crop&hei=470&wid=834"
+  },
+  {
+    "id": 5,
+    "file": "laptop-5.jpg",
+    "bytes": 128887,
+    "source": "https://a.allegroimg.com/original/118524/f3d9938b40dfa0a931ad130a1286/14-DOTYKOWY-Lenovo-ThinkPad-X1-Yoga-G1-i5-6200U-8GB-RAM-256GB-QHD-kl-B"
+  },
+  {
+    "id": 6,
+    "file": "laptop-6.jpg",
+    "bytes": 110162,
+    "source": "https://microless.com/cdn/products/ef7672210d51d8ae5b2e3994f75936bf-hi.jpg"
+  },
+  {
+    "id": 7,
+    "file": "laptop-7.jpg",
+    "bytes": 301594,
+    "source": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/175/17539/17539817.jpeg"
+  },
+  {
+    "id": 8,
+    "file": "laptop-8.jpg",
+    "bytes": 67731,
+    "source": "https://cdn.media.amplience.net/i/xcite/658725-02?fmt=auto&img404=default&qlt=75&w=2048"
+  }
+]

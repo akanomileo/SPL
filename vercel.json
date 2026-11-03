@@ -1,0 +1,26 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "buildCommand": "",
+  "installCommand": "",
+  "outputDirectory": "dist/client",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "headers": [
+    { "source": "/index.txt", "headers": [{ "key": "Content-Type", "value": "text/x-component" }] },
+    { "source": "/account.txt", "headers": [{ "key": "Content-Type", "value": "text/x-component" }] },
+    { "source": "/owner.txt", "headers": [{ "key": "Content-Type", "value": "text/x-component" }] }
+  ],
+  "rewrites": [
+    { "source": "/uploads/:path*", "destination": "/api/uploads/:path*" },
+    { "source": "/", "has": [{ "type": "query", "key": "_rsc" }], "destination": "/index.txt" },
+    { "source": "/account", "has": [{ "type": "query", "key": "_rsc" }], "destination": "/account.txt" },
+    { "source": "/account/", "has": [{ "type": "query", "key": "_rsc" }], "destination": "/account.txt" },
+    { "source": "/owner", "has": [{ "type": "query", "key": "_rsc" }], "destination": "/owner.txt" },
+    { "source": "/owner/", "has": [{ "type": "query", "key": "_rsc" }], "destination": "/owner.txt" },
+    { "source": "/account", "destination": "/account.html" },
+    { "source": "/account/", "destination": "/account.html" },
+    { "source": "/owner", "destination": "/owner.html" },
+    { "source": "/owner/", "destination": "/owner.html" }
+  ]
+}

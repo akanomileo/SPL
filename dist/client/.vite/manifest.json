@@ -1,0 +1,130 @@
+{
+  "_framework-5hhgsyNd.js": {
+    "file": "_next/static/chunks/framework-5hhgsyNd.js",
+    "name": "framework",
+    "imports": [
+      "_rolldown-runtime-hePW80VL.js"
+    ]
+  },
+  "_order-history-Df0NeCzo.js": {
+    "file": "_next/static/chunks/order-history-Df0NeCzo.js",
+    "name": "order-history",
+    "imports": [
+      "_rolldown-runtime-hePW80VL.js",
+      "_framework-5hhgsyNd.js",
+      "_payment-instructions-CdbA-201.js"
+    ]
+  },
+  "_payment-instructions-CdbA-201.js": {
+    "file": "_next/static/chunks/payment-instructions-CdbA-201.js",
+    "name": "payment-instructions",
+    "imports": [
+      "_rolldown-runtime-hePW80VL.js",
+      "_framework-5hhgsyNd.js",
+      "_vinext-B2we_ifg.js"
+    ],
+    "dynamicImports": [
+      "_vinext-B2we_ifg.js"
+    ]
+  },
+  "_rolldown-runtime-hePW80VL.js": {
+    "file": "_next/static/chunks/rolldown-runtime-hePW80VL.js",
+    "name": "rolldown-runtime"
+  },
+  "_shop-product-Bn2wbmGL.js": {
+    "file": "_next/static/chunks/shop-product-Bn2wbmGL.js",
+    "name": "shop-product",
+    "imports": [
+      "_rolldown-runtime-hePW80VL.js",
+      "_framework-5hhgsyNd.js",
+      "_payment-instructions-CdbA-201.js"
+    ]
+  },
+  "_vinext-B2we_ifg.js": {
+    "file": "_next/static/chunks/vinext-B2we_ifg.js",
+    "name": "vinext",
+    "imports": [
+      "_rolldown-runtime-hePW80VL.js",
+      "_framework-5hhgsyNd.js"
+    ],
+    "dynamicImports": [
+      "node_modules/vinext/dist/shims/internal/hybrid-client-route-owner.js",
+      "_vinext-B2we_ifg.js"
+    ]
+  },
+  "app/account/account.tsx": {
+    "file": "_next/static/chunks/account-S6x4GJwm.js",
+    "name": "account",
+    "src": "app/account/account.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-hePW80VL.js",
+      "_framework-5hhgsyNd.js",
+      "_payment-instructions-CdbA-201.js",
+      "_order-history-Df0NeCzo.js"
+    ]
+  },
+  "app/customer-entry.tsx": {
+    "file": "_next/static/chunks/customer-entry-KQVbTNsj.js",
+    "name": "customer-entry",
+    "src": "app/customer-entry.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-hePW80VL.js",
+      "_framework-5hhgsyNd.js",
+      "_payment-instructions-CdbA-201.js",
+      "_shop-product-Bn2wbmGL.js"
+    ]
+  },
+  "app/owner/owner.tsx": {
+    "file": "_next/static/chunks/owner-BgI86QMi.js",
+    "name": "owner",
+    "src": "app/owner/owner.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-hePW80VL.js",
+      "_framework-5hhgsyNd.js",
+      "_payment-instructions-CdbA-201.js",
+      "_shop-product-Bn2wbmGL.js",
+      "_order-history-Df0NeCzo.js"
+    ]
+  },
+  "node_modules/vinext/dist/shims/internal/hybrid-client-route-owner.js": {
+    "file": "_next/static/chunks/hybrid-client-route-owner-BkL7kMFO.js",
+    "name": "hybrid-client-route-owner",
+    "src": "node_modules/vinext/dist/shims/internal/hybrid-client-route-owner.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vinext-B2we_ifg.js"
+    ]
+  },
+  "node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "_next/static/chunks/layout-segment-context-Seerb2zf.js",
+    "name": "layout-segment-context",
+    "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-hePW80VL.js",
+      "_framework-5hhgsyNd.js",
+      "_vinext-B2we_ifg.js"
+    ]
+  },
+  "virtual:vinext-app-browser-entry": {
+    "file": "_next/static/chunks/index-CXl33UWr.js",
+    "name": "index",
+    "src": "virtual:vinext-app-browser-entry",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-hePW80VL.js",
+      "_framework-5hhgsyNd.js",
+      "_vinext-B2we_ifg.js"
+    ],
+    "dynamicImports": [
+      "_vinext-B2we_ifg.js",
+      "node_modules/vinext/dist/shims/layout-segment-context.js",
+      "app/owner/owner.tsx",
+      "app/account/account.tsx",
+      "app/customer-entry.tsx"
+    ]
+  }
+}
